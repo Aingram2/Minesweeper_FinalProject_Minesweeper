@@ -1,0 +1,4 @@
+﻿  Minesweeper_FinalProject_Minesweeper.cpp
+c:\users\ender\documents\visual studio 2015\projects\minesweeper_finalproject_minesweeper\minesweeper_finalproject_minesweeper\minesweeper_finalproject_minesweeper.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Minesweeper_FinalProject_Minesweeper.vcxproj -> C:\Users\ender\Documents\Visual Studio 2015\Projects\Minesweeper_FinalProject_Minesweeper\Debug\Minesweeper_FinalProject_Minesweeper.exe
+  Minesweeper_FinalProject_Minesweeper.vcxproj -> C:\Users\ender\Documents\Visual Studio 2015\Projects\Minesweeper_FinalProject_Minesweeper\Debug\Minesweeper_FinalProject_Minesweeper.pdb (Full PDB)
